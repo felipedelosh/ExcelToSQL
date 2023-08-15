@@ -13,8 +13,9 @@ if you need upgrade pip run in terminal:<br>
  Python -m pip install pandas<br>
 
 
-## 1 -> settings<br>
-
+## 1 -> settings in main.py<br>
+ 
+ insert a excel file in root folder<br>
  set path route of ecxel<br>
  set a name of target table sql<br>
  put all col names<br>
@@ -22,7 +23,7 @@ if you need upgrade pip run in terminal:<br>
  set if you need drop a headers
 
 
-## 3 -> Run and execute output.sql
+## 3 -> Run and execute main.py
 
- all values of excel convert in sql.<br>
+ if you exceute all values of excel convert in sql. view file: 'output.sql'<br>
  
